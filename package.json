@@ -11,6 +11,7 @@
 	"description": "",
 	"devDependencies": {
 		"autoprefixer": "^10.3.6",
+		"cssnano": "^5.0.8",
 		"postcss-cli": "^9.0.1",
 		"tailwindcss": "^2.2.16"
 	}
